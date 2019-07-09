@@ -1,0 +1,1 @@
+The console application calculates the number of correct bracket sequences
